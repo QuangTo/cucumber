@@ -1,0 +1,22 @@
+{
+  "name": "playwright-api-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangTo/playwright-api-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuangTo/playwright-api-typescript/issues"
+  },
+  "homepage": "https://github.com/QuangTo/playwright-api-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12"
+  }
+}
