@@ -7,4 +7,3 @@ Feature: Login
             | username     | password        | status |
             | admin        | password        | 200    |
             | user_2@gmail | INvalidPassword | 404    |
-
